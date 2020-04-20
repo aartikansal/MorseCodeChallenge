@@ -9,7 +9,7 @@ public class Decoder {
 
         String newText = "";
 
-        //encoded = encoded.toLowerCase();
+        encoded = encoded.toLowerCase();
 
         /*for (int i = 0; i < encoded.length(); i++) {
             for (short j = 0; j < 37; j++) {
